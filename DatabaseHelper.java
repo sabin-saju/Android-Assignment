@@ -52,6 +52,5 @@ public class DatabaseHelper extends SQLiteOpenHelper {
             return "No names found";
         }
         return names.toString();
-    }
-}
+    }}
 
