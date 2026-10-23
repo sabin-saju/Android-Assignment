@@ -1,4 +1,4 @@
-package app.hotel49.sqllite;
+package app.hotel49.sqlite;
 
 import android.os.Bundle;
 import android.view.View;
